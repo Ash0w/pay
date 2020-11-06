@@ -72,6 +72,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
+        <finalName>pay</finalName>
     </build>
 
 </project>
